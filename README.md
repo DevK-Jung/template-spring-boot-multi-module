@@ -1,4 +1,4 @@
-# Spring Boot Multi Module Project Example
+# Spring Boot Multi Module Template
 
 이 프로젝트는 **Spring Boot** 기반 멀티 모듈 프로젝트를 구성하고, 모듈 간 의존성을 체계적으로 관리하는 방법을 다룹니다.  
 **코드 재사용성**과 **유지보수성**을 높이고, 확장 가능한 프로젝트 구조를 제공합니다.
